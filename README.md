@@ -1,5 +1,5 @@
 # University Website Example using HTML and CSS
-![license none](https://img.shields.io/static/v1?label=License&message=none&color=green?style=plastic&logo=appveyor)
+
 ## Description
 Link to the tutorial video I followed to create this: [https://www.youtube.com/watch?v=oYRda7UtuhA](https://www.youtube.com/watch?v=oYRda7UtuhA)
 
