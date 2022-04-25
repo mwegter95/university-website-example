@@ -6,7 +6,7 @@ Link to the tutorial video I followed to create this: [https://www.youtube.com/w
 ## Installation
 The source files are copied into this repo and you can download the zip or clone the repo. HTML and CSS only are needed so no extra libraries need installed.
 ## Usage
-Simply open the downloaded HTML file in your internet browser. Or to visit the live version, github.com/mwegter95/university-website-example
+Simply open the downloaded HTML file in your internet browser. Or to visit the live version, https://mwegter95.github.io/university-website-example/
 
 
 
